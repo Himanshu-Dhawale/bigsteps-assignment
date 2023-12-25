@@ -1,8 +1,32 @@
-# React + Vite
+# Pokémon Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pokémon Explorer is a web application that allows users to explore and filter Pokémon data. It leverages the Pokémon API to provide information about various Pokémon, including their types, stats, and images.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Filter by Type:** Filter Pokémon by their types, allowing users to focus on specific categories of Pokémon.
+
+- **Search:** Search for Pokémon by name, making it easy to find a specific Pokémon or group of Pokémon.
+
+- **Infinite Scroll:** Load more Pokémon as you scroll down, providing a seamless browsing experience.
+
+- **Modal Details:** Click on a Pokémon card to view detailed statistics and information in a modal.
+
+## Technologies Used
+
+- React
+- Redux
+- Tailwind CSS
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   [git clone https://github.com/your-username/pokemon-explorer.git](https://github.com/Himanshu-Dhawale/bigsteps-assignment.git)https://github.com/Himanshu-Dhawale/bigsteps-assignment.git
